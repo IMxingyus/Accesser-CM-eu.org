@@ -1,14 +1,16 @@
-# Accesser
+*仅作测试* 
+# Accesser-CM-eu.org
 [English version](README.en.md)
 
-一个解决SNI RST导致维基百科、Pixiv等站点无法访问的工具  
-[支持的站点](https://github.com/URenko/Accesser/wiki/目前支持的站点)
+一个~~尝试~~解决移不动对eu.org域名SNI的工具  
+顺便解决SNI RST导致维基百科、Pixiv等站点无法访问（原库[Accesser](https://github.com/URenko/Accesser) [支持的站点](https://github.com/URenko/Accesser/wiki/目前支持的站点)）
 
 [![](https://img.shields.io/github/release/URenko/Accesser.svg)](https://github.com/URenko/Accesser/releases/latest)
 [![](https://img.shields.io/github/downloads/URenko/Accesser/total.svg)](https://github.com/URenko/Accesser/releases/latest)
 [![](https://img.shields.io/github/license/URenko/Accesser.svg)](https://github.com/URenko/Accesser/blob/master/LICENSE)
 
 ## 使用
+~~*虽然现在完全不能使用*~~
 ### 如果不知道什么是Python
 从[这里](https://github.com/URenko/Accesser/releases/download/v0.8.0/accesser.exe)下载Windows一键程序，运行既可，首次使用会要求安装证书，选是即可。
 ### 如果已经安装了Python 3.11*或更高版本
